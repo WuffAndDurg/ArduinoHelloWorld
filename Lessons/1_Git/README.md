@@ -30,7 +30,7 @@ I want to get you moving with these basics for git and GitHub
 That way, you'll know what to do to keep me updated!
 
 **You will:**
-- Clone the repo here
-- Make a few tweaks to some files
-- Push them to a new branch and finally
-- Open a PR to tell me that I messed up :>
+- [ ] Clone the repo here
+- [ ] Make a few tweaks to some files
+- [ ] Push them to a new branch and finally
+- [ ] Open a PR to tell me that I messed up :>
